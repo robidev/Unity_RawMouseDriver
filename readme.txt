@@ -67,7 +67,7 @@ the names mentioned in this document, and give credit where credit is due :)
 Best regards,
 
 Robin Massink
-robin.dev@gmail.com
+...
 
 (copied from old zipfile:)
 
